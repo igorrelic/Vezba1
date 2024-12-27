@@ -1,2 +1,5 @@
 print ("Hello you too 2")
-print ("nove izmene na developu")
+print ("Master grana: Nove izmene na masteru")
+print ("Proba")
+
+print ("123")
